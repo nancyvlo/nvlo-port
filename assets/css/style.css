@@ -396,12 +396,7 @@ footer{
   color: #fff;
   text-align: center;
 }
-footer span a{
-  color: rgb(233, 86, 110);
-}
-footer span a:hover{
-  text-decoration: underline;
-}
+
 /* responsive media query start */
 @media (max-width: 1104px) {
   .about .about-content .left img{
