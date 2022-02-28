@@ -325,6 +325,7 @@ section .title::after{
 }
 .contact .contact-content .info .head{
   font-weight: 500;
+  color:rgb(233, 86, 110);
 }
 .contact .contact-content .info .sub-title{
   color: #333;
@@ -418,9 +419,8 @@ footer span a:hover{
       display: block;
       z-index: 999;
   }
-  .menu-btn i.active:before{
-      content: "\f00d";
-  }
+
+  
   .navbar .menu{
       position: fixed;
       height: 100vh;
